@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
+<meta charset="utf-8">
+<link rel="stylesheet" href="./cadastrar.css" 
+<title>Tiago - Cadastrar em duas tabelas</title>
 <head>
-    <meta charset="utf-8">
-    <title>Tiago - Cadastrar em duas tabelas</title>
-    <link rel="stylesheet" href="./cadastrar.css" </head>
+
+    
+  
+</head>
 
 <body>
     <div class="container">
